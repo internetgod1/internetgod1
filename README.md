@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @internetgod1
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning on my own because i didnt qualify to go to the university
-- 💞️ I’m looking to collaborate with someone who will help me with what i'll need to know n learn
-- 📫 How to reach me @fb: @internet.god.1 
+- 👋 Hi, I’m Mujahid Akanayo Masoud
+- 👀 I’m interested in computer science and Electronics engineering.
+- 🌱 I’m currently learning on my own to catch up with new technological trends 
+- 💞️ I’m looking to collaborate with like minded individuals who would be interested to work with me.
+- 📫 How to reach me @Akanayo Mujahid on Instagram.
 
 <!---
 internetgod1/internetgod1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
